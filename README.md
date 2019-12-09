@@ -11,5 +11,5 @@ There is a medium.com article doing the same task but the scope of that project 
 
 ## Repo Need To Knows
 1. There are two branches: master and develop. All work is in develop and develop only
-2. The data is too large for git so it is on Google drive: https://drive.google.com/drive/folders/1slL2Asn36snNvkyWS1fMbQPpTwfQLbzN?usp=sharing
+2. The data is too large for git so it is on Google drive: https://drive.google.com/drive/folders/1slL2Asn36snNvkyWS1fMbQPpTwfQLbzN?usp=sharing . Please follow the link to the Google drive page and select "download all". The zipping will begin and once completed you may receive a confirmation to leave the site. Click leave and this will start downloading the zip file. In the zip file should be the data folder. Copy this into the cloned repo. The folder should just be called "data".
 3. The notebooks that are in the top level of the repo are the ones we mention throughout the report. There is another folder called NonFinalWorkAndExperimentation. This holds many notebooks that we have work in where we experiment with ideas but nothing significant came out of it and decided not to include it in the report because of it. But, if you are curious in what we might have played around with, it is in those notebooks.
